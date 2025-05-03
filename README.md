@@ -14,8 +14,11 @@ Here are some ideas to get you started:
  I’m looking for help with C language and front end development.
 <!-- Ask me about -->
  How to reach me: 
+
  Email: adeshprasad010@gmail.com
+ 
  LinkedIn: Adesh Prasad
+ 
  Instagram: @adesh._.prasad
  <!--Fun fact: ...-->
 
