@@ -145,6 +145,7 @@ A full-stack web application connecting rural youth in India with vocational job
 
 ## 🏆 Achievements
 
+- 🏅 **Top 50, UnvibeCode Engineering Challenge 2026 (Cohort 2)** by Alphashots.ai: ranked 42nd of 100 participants
 - 🥉 **3rd Place — Hack Quest**, COGNEBULA '26, National Level Technical Symposium, Velammal Engineering College.
 - 🥉 **3rd Place — Street Coding**, TANTRAZ '26.
 - 🎓 **CGPA: 9.51 / 10** — B.Tech Computer Science and Engineering.
