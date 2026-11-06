@@ -110,6 +110,26 @@ An end-to-end time-series machine learning pipeline that predicts sleep quality 
 
 **Tech:** Python · pandas · NumPy · scikit-learn
 
+### 🌉 KaushalSetu — Full-Stack Web Application
+
+<p>
+  <a href="https://kaushalsetu-2q3o.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_App-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Adeshprasad/KaushalSetu">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
+
+A full-stack web application connecting rural youth in India with vocational job opportunities, government schemes, and nearby training centres.
+
+- Integrated Google Gemini API for AI-powered skill extraction and scheme assistance.
+- Developed intelligent job matching with skill-based scores and explainable recommendations.
+- Implemented multilingual support for regional accessibility.
+- Integrated Firebase Authentication and Firestore with custom security rules.
+
+**Tech:** React · TypeScript · Vite · Tailwind CSS · Node.js · Express · Firebase · Gemini API
+
 ---
 
 ## 💼 Experience
